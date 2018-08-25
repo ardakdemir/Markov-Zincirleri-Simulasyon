@@ -1,6 +1,11 @@
 # Markov-Zincirleri-Simulasyon
-Markov Zincirleri'ne kisa bir giris kitabi icin olusturulan gorselleri ureten ve simulasyonlari yapan kodlar.
+Bu sayfada `Markov Zincirleri'ne kisa bir giris` kitabi icin olusturulan gorselleri ureten ve simulasyonlari yapan kodları bulabilirsiniz. 
 
-[markovzincirleri.ipynb](markovzincirleri.ipynb) ile butun gorsellere ve simulasyonlara erisilebilir
+Kodları çalıştırabilmeniz için gereklilikleri requirements dokumanında bulabilirsiniz. Python ve jupyter notebook kullanmaya aşina iseniz tek yapmanız gereken notebook'un en üstünde belirtilen kütüphanelerden olmayanları edinmeniz.
+
+
+[markovzincirleri.ipynb](markovzincirleri.ipynb) ile butun gorsellere ve simulasyonlara erisilebilir.
+
+Kitap'ta geçen şekilleri kendi ihtiyacınıza göre değiştirebilir ve tekrar üretebilirsiniz. Ayrıca kitapta olmayan birkaç simulasyonu (Polya modelinin simulasyon vb.) da kodların içinde bulabilirsiniz. Olabildiğince başlıklar ile anlaşılır halde yazmaya çalıştık. Hala geliştirme aşamasında olduğu için anlaşılması zor kod parçaları olabilir.
 
 
