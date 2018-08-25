@@ -1,5 +1,5 @@
 # Markov-Zincirleri-Simulasyon
-Bu sayfada #Markov Zincirleri'ne kisa bir giris#  kitabi icin olusturulan gorselleri ureten ve simulasyonlari yapan kodları bulabilirsiniz. 
+Bu sayfada # Markov Zincirleri'ne kısa bir giriş #  kitabi icin olusturulan gorselleri ureten ve simulasyonlari yapan kodları bulabilirsiniz. 
 
 Kodları çalıştırabilmeniz için gereklilikleri requirements dokumanında bulabilirsiniz. Python ve jupyter notebook kullanmaya aşina iseniz tek yapmanız gereken notebook'un en üstünde belirtilen kütüphanelerden olmayanları edinmeniz.
 
