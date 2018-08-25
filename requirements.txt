@@ -1,0 +1,7 @@
+Anaconda Python3
+
+Python Packages:
+* numpy
+* networkx
+* pygraphviz, graphviz
+* 
