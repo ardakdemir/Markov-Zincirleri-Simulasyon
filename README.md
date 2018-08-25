@@ -1,7 +1,7 @@
 # Markov-Zincirleri-Simulasyon
 Bu sayfada **Markov Zincirleri'ne kısa bir giriş** kitabı için oluşturulan görselleri üreten ve simulasyonları yapan kodları bulabilirsiniz. 
 
-Kodları çalıştırabilmeniz için gereklilikleri [requirements](requirements.txt) dokumanında bulabilirsiniz. Python ve jupyter notebook kullanmaya aşina iseniz tek yapmanız gereken notebook'un en üstünde belirtilen kütüphanelerden olmayanları edinmeniz.
+Kodları çalıştırabilmeniz için gereklilikleri [requirements](requirements.txt) dokumanında bulabilirsiniz. Python ve jupyter notebook kullanmaya aşina iseniz tek yapmanız gereken notebook'un en üstünde belirtilen kütüphaneleri edinmeniz.
 
 
 [markovzincirleri.ipynb](markovzincirleri.ipynb) ile butun gorsellere ve simulasyonlara erisilebilir.
